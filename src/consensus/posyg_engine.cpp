@@ -197,4 +197,3 @@ Participant& PoSygEngine::get_participant(size_t participant_id) {
 void PoSygEngine::apply_slashing_mechanism() {
     process_slashing();
 }
-
